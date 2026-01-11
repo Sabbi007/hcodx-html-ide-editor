@@ -1,0 +1,23 @@
+# llms.txt – HCODX
+# AI & LLM Crawling Guidance
+
+site: https://hcodx.com
+name: HCODX
+type: SoftwareApplication
+category: Online HTML IDE / Web Development Tool
+
+description:
+HCODX is a privacy-first online HTML, CSS, and JavaScript editor with live preview.
+The application runs fully in the browser and does not upload user code to servers.
+
+allowed:
+- /
+- /html-editor-live-preview.html
+- /html-css-js-editor-online.html
+
+disallowed:
+- none
+
+preferred-language: en
+content-license: proprietary
+contact: https://hcodx.com
