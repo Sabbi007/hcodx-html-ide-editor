@@ -76,7 +76,10 @@ Use environment variables and secure backend configuration in real projects.
 - anyone who values quick, private iteration
 
 ---
-
+- Documentation: https://sabbi007.github.io/hcodx-html-ide-editor/docs
+- HCODX vs Other Editors: https://sabbi007.github.io/hcodx-html-ide-editor/comparison
+- Use cases: https://sabbi007.github.io/hcodx-html-ide-editor/use-cases
+  
 ## 6) Try HCODX
 
 👉 https://hcodx.com
