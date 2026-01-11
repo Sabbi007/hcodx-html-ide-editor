@@ -1,75 +1,98 @@
 ---
-title: Online HTML, CSS & JavaScript editor with live preview. Privacy-first web IDE.
+title: HCODX FREE Online HTML IDE Editor
 description: HCODX is a privacy-first online HTML, CSS, and JavaScript editor with live preview. A fast browser-based web IDE for developers.
 ---
 
+<!-- SEO: Open Graph -->
+<meta property="og:title" content="HCODX FREE Online HTML IDE Editor" />
+<meta property="og:description" content="Privacy-first online HTML, CSS & JavaScript editor with live preview. Fast browser-based web IDE." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://hcodx.com" />
+
+<!-- SEO: JSON-LD Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "HCODX",
+  "operatingSystem": "Web",
+  "applicationCategory": "DeveloperApplication",
+  "description": "Privacy-first online HTML, CSS and JavaScript editor with live preview.",
+  "url": "https://hcodx.com",
+  "author": {
+    "@type": "Organization",
+    "name": "HCODX"
+  }
+}
+</script>
+
 # HCODX – Online HTML IDE Editor
 
-**HCODX** is a professional, privacy-first **online HTML IDE editor** designed for developers who want speed, clarity, and full control directly in the browser.
+**HCODX** is a professional, privacy-first **online HTML IDE editor** built for developers who want speed, clarity, and full control directly in the browser.
 
-Unlike most online editors, **HCODX does not upload your code to servers**. Everything runs locally in your browser.
+Unlike most online editors, **HCODX does not upload your code to any server**.  
+Everything runs locally in your browser.
 
 ---
 
-## 🔥 Key Features
+## 🚀 Core Capabilities
 
 - Online HTML, CSS & JavaScript editor
-- Real-time live preview
-- No login or account required
+- Instant live preview
+- No sign-up or account required
 - Privacy-first (no server-side storage)
-- Fast and lightweight interface
-- Works on desktop and mobile devices
+- Fast, lightweight, browser-based IDE
+- Optimized for desktop & mobile
 
 ---
 
-## 🚀 Why HCODX?
+## 🧠 Why Developers Choose HCODX
 
-Most online IDEs rely on cloud processing and user tracking.  
-**HCODX is different**:
+Most web-based IDEs rely on cloud execution and user tracking.  
+**HCODX is different by design**:
 
-- Your code stays on your device
+- Your code never leaves your device
 - No analytics tracking your content
-- Instant preview without reload
+- Immediate feedback without reload
 - Ideal for learning, testing, and rapid prototyping
 
 ---
 
-## 🌐 Try HCODX Now
+## 🌐 Official Tool
 
-👉 **Official Website:**  
+👉 **Use HCODX here:**  
 https://hcodx.com
 
 ---
 
-## 🧠 Use Cases
+## 📌 Use Cases
 
-- Frontend development testing
-- HTML, CSS & JavaScript learning
+- Frontend testing & experimentation
+- Learning HTML, CSS & JavaScript
 - UI prototyping
-- Code experimentation
 - Browser-based development
+- Quick code validation
 
 ---
 
-## 🔍 SEO Keywords
+## 🔍 Discoverability Keywords
 
-online html editor, html ide, online css editor, online javascript editor, web ide, browser based code editor, live html editor, frontend playground, privacy first ide
+online html editor, html ide, online css editor, online javascript editor, browser based ide, live html editor, web ide, frontend playground, privacy first ide
 
 ---
 
-## 📌 About This Repository
+## 📄 Repository Notice
 
 This repository contains **public documentation only**.
 
-> Core logic, proprietary algorithms, and internal systems are **not included**.
+> Core logic, proprietary algorithms, and internal systems are intentionally excluded.
 
 ---
 
-## 📎 Related Links
+## 🔗 Related Pages
 
-- Main Tool: https://hcodx.com
-- Online HTML Editor: https://hcodx.com/html-editor-live-preview.html
-- HTML CSS JS Editor: https://hcodx.com/html-css-js-editor-online.html
+- https://hcodx.com/html-editor-live-preview.html  
+- https://hcodx.com/html-css-js-editor-online.html  
 
 ---
 
