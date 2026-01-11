@@ -176,6 +176,13 @@ HCODX is designed for a local-first workflow. Always treat client-side code resp
 
 ---
 
+### 🔗 More About HCODX
+- Privacy-First IDE: /privacy-first-ide
+- Use Cases: /use-cases
+- Documentation: /docs
+- Comparison: /comparison
+
+
 ## 9) Related Pages
 
 - Main tool: https://hcodx.com  
