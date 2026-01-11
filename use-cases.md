@@ -41,6 +41,11 @@ HCODX is built to support a wide range of frontend development scenarios.
 
 ---
 
+### 🔗 More About HCODX
+- Privacy-First IDE: https://sabbi007.github.io/hcodx-html-ide-editor/privacy
+- Use Cases: https://sabbi007.github.io/hcodx-html-ide-editor/docs
+- Comparison: https://sabbi007.github.io/hcodx-html-ide-editor/comparison
+  
 ## 🚀 Start Using HCODX
 
 https://hcodx.com
