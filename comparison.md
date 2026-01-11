@@ -101,6 +101,6 @@ HCODX is a strong choice.
 ### 🔗 More About HCODX
 - Privacy-First IDE: https://sabbi007.github.io/hcodx-html-ide-editor/privacy
 - Use Cases: https://sabbi007.github.io/hcodx-html-ide-editor/use-cases
-- Comparison: https://sabbi007.github.io/hcodx-html-ide-editor/docs
+- Docs: https://sabbi007.github.io/hcodx-html-ide-editor/docs
   
 © HCODX
