@@ -1,54 +1,57 @@
 # HCODX – Online HTML IDE Editor
 
-HCODX is a **privacy-first online HTML, CSS, and JavaScript editor** with live preview, built for developers who want a fast and clean browser-based IDE.
+![Status](https://img.shields.io/badge/status-active-success)
+![Platform](https://img.shields.io/badge/platform-web-blue)
+![Privacy](https://img.shields.io/badge/privacy-first-important)
 
-🌐 **Official Website:** https://hcodx.com  
+**HCODX** is a privacy-first **online HTML, CSS, and JavaScript editor** with live preview — built for developers who want a fast, clean, browser-based IDE.
+
+🌐 **Website:** https://hcodx.com  
 🚀 **Live Tool:** Online HTML IDE Editor
 
 ---
 
-## 🔍 What is HCODX?
+## 🔍 Overview
 
-**HCODX** is a modern web-based IDE that lets you write and test HTML, CSS, and JavaScript instantly — directly in your browser.
+HCODX allows you to write and test HTML, CSS, and JavaScript instantly — without installation, accounts, or cloud storage.
 
-No installations.  
-No accounts.  
-No server-side code storage.
-
-Your code stays on **your device**.
+Your code runs **locally in your browser**.
 
 ---
 
-## ✨ Core Highlights
+## ✨ Highlights
 
-- Online HTML, CSS & JavaScript editor
-- Instant live preview
-- Privacy-first (no cloud code storage)
-- Fast and lightweight UI
-- Works on desktop and mobile
-- Designed for learning & rapid testing
+- Live HTML, CSS & JS preview
+- No login or account required
+- No server-side code storage
+- Fast & lightweight UI
+- Works on desktop & mobile
+- Designed for developers & learners
 
 ---
 
 ## 🛡️ Privacy & Security
 
-HCODX does **not** upload or store your code on any server.
+HCODX does **not** collect, upload, or store your code.
 
-This repository contains **documentation and public information only**.
+This public repository exists for:
+- Documentation
+- Project overview
+- Discoverability & SEO
 
-> Core logic, proprietary systems, and internal algorithms are intentionally excluded.
+> Proprietary logic and internal systems are not included.
 
 ---
 
-## 🌐 Try the Tool
+## 🌐 Try HCODX
 
 👉 https://hcodx.com
 
 ---
 
-## 📎 Related Pages
+## 📎 Useful Links
 
-- HTML Live Preview Editor  
+- Live Preview Editor  
   https://hcodx.com/html-editor-live-preview.html
 
 - HTML CSS JS Editor  
@@ -56,20 +59,8 @@ This repository contains **documentation and public information only**.
 
 ---
 
-## 📄 Repository Scope
+## 📄 License & Scope
 
-This public repository exists for:
-- Documentation
-- Project overview
-- SEO & discoverability
-- Community reference
+This repository does not contain application source code.
 
-It **does not contain source code** of the application.
-
----
-
-## 🤝 Feedback
-
-If you find HCODX useful, feel free to share it with other developers.
-
-🌐 https://hcodx.com
+All rights reserved © HCODX
