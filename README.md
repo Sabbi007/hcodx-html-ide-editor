@@ -49,6 +49,12 @@ This public repository exists for:
 
 ---
 
+## 📚 Learn More
+
+- Documentation: https://sabbi007.github.io/hcodx-html-ide-editor/docs
+- Privacy-First IDE: https://sabbi007.github.io/hcodx-html-ide-editor//privacy
+- HCODX vs Other Editors: https://sabbi007.github.io/hcodx-html-ide-editor/comparison
+  
 ## 📎 Useful Links
 
 - Live Preview Editor  
