@@ -54,6 +54,7 @@ This public repository exists for:
 - Documentation: https://sabbi007.github.io/hcodx-html-ide-editor/docs
 - Privacy-First IDE: https://sabbi007.github.io/hcodx-html-ide-editor//privacy
 - HCODX vs Other Editors: https://sabbi007.github.io/hcodx-html-ide-editor/comparison
+- Use cases: https://sabbi007.github.io/hcodx-html-ide-editor/use-cases
   
 ## 📎 Useful Links
 
