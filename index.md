@@ -88,7 +88,12 @@ This repository contains **public documentation only**.
 > Core logic, proprietary algorithms, and internal systems are intentionally excluded.
 
 ---
+## 📚 Learn More
 
+- Documentation: https://sabbi007.github.io/hcodx-html-ide-editor/docs
+- Privacy-First IDE: https://sabbi007.github.io/hcodx-html-ide-editor//privacy
+- HCODX vs Other Editors: https://sabbi007.github.io/hcodx-html-ide-editor/comparison
+  
 ## 🔗 Related Pages
 
 - https://hcodx.com/html-editor-live-preview.html  
