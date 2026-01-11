@@ -1,5 +1,5 @@
 ---
-title: HCODX Online HTML IDE Editor
+title: Online HTML, CSS & JavaScript editor with live preview. Privacy-first web IDE.
 description: HCODX is a privacy-first online HTML, CSS, and JavaScript editor with live preview. A fast browser-based web IDE for developers.
 ---
 
