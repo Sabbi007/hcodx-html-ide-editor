@@ -7,7 +7,7 @@ description: HCODX is a privacy-first online HTML, CSS, and JavaScript editor wi
 <meta property="og:title" content="HCODX FREE Online HTML IDE Editor" />
 <meta property="og:description" content="Privacy-first online HTML, CSS & JavaScript editor with live preview. Fast browser-based web IDE." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://hcodx.com" />
+<meta property="og:url" content="https://hcodx.io" />
 
 <!-- SEO: JSON-LD Schema -->
 <script type="application/ld+json">
@@ -18,7 +18,7 @@ description: HCODX is a privacy-first online HTML, CSS, and JavaScript editor wi
   "operatingSystem": "Web",
   "applicationCategory": "DeveloperApplication",
   "description": "Privacy-first online HTML, CSS and JavaScript editor with live preview.",
-  "url": "https://hcodx.com",
+  "url": "https://hcodx.io",
   "author": {
     "@type": "Organization",
     "name": "HCODX"
@@ -61,7 +61,7 @@ Most web-based IDEs rely on cloud execution and user tracking.
 ## 🌐 Official Tool
 
 👉 **Use HCODX here:**  
-https://hcodx.com
+https://hcodx.io
 
 ---
 
@@ -97,8 +97,8 @@ This repository contains **public documentation only**.
   
 ## 🔗 Related Pages
 
-- https://hcodx.com/html-editor-live-preview.html  
-- https://hcodx.com/html-css-js-editor-online.html  
+- https://hcodx.io/html-editor-live-preview.html  
+- https://hcodx.io/html-css-js-editor-online.html  
 
 ---
 

@@ -12,7 +12,7 @@ HCODX is built with a privacy-first mindset:
 - local-first workflow
 - no forced cloud storage for basic use
 
-Official tool: https://hcodx.com
+Official tool: https://hcodx.io
 
 ---
 
@@ -82,7 +82,7 @@ Use environment variables and secure backend configuration in real projects.
   
 ## 6) Try HCODX
 
-👉 https://hcodx.com
+👉 https://hcodx.io
 
 ---
 

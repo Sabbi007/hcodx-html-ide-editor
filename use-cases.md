@@ -48,4 +48,4 @@ HCODX is built to support a wide range of frontend development scenarios.
   
 ## 🚀 Start Using HCODX
 
-https://hcodx.com
+https://hcodx.io

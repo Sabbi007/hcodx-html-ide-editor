@@ -1,7 +1,7 @@
 # llms.txt – HCODX
 # AI & LLM Crawling Guidance
 
-site: https://hcodx.com
+site: https://hcodx.io
 name: HCODX
 type: SoftwareApplication
 category: Online HTML IDE / Web Development Tool
@@ -20,4 +20,4 @@ disallowed:
 
 preferred-language: en
 content-license: proprietary
-contact: https://hcodx.com
+contact: https://hcodx.io

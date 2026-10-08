@@ -8,7 +8,7 @@ description: Full documentation for HCODX online HTML IDE editor. Learn features
 HCODX is a **privacy-first online HTML IDE editor** built for developers who want a fast, clean, browser-based workflow to write and test **HTML, CSS, and JavaScript** with **live preview**.  
 It is designed to feel like a lightweight desktop IDE — while running entirely on the web.
 
-**Official Tool:** https://hcodx.com
+**Official Tool:** https://hcodx.io
 
 ---
 
@@ -150,7 +150,7 @@ Performance matters because:
 
 ## 7) Getting Started in 60 Seconds
 
-1) Open: https://hcodx.com  
+1) Open: https://hcodx.io  
 2) Write a small HTML structure  
 3) Add CSS for styling  
 4) Add JS for interaction  
@@ -184,9 +184,9 @@ HCODX is designed for a local-first workflow. Always treat client-side code resp
 
 ## 9) Related Pages
 
-- Main tool: https://hcodx.com  
-- Live preview editor: https://hcodx.com/html-editor-live-preview.html  
-- HTML CSS JS editor: https://hcodx.com/html-css-js-editor-online.html  
+- Main tool: https://hcodx.io  
+- Live preview editor: https://hcodx.io/html-editor-live-preview.html  
+- HTML CSS JS editor: https://hcodx.io/html-css-js-editor-online.html  
 
 ---
 

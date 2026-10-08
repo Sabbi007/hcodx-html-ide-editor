@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hcodx.com/sitemap.xml
+Sitemap: https://hcodx.io/sitemap.xml

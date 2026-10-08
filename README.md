@@ -6,7 +6,7 @@
 
 **HCODX** is a privacy-first **online HTML, CSS, and JavaScript editor** with live preview — built for developers who want a fast, clean, browser-based IDE.
 
-🌐 **Website:** https://hcodx.com  
+🌐 **Website:** https://hcodx.io  
 🚀 **Live Tool:** Online HTML IDE Editor
 
 ---
@@ -45,7 +45,7 @@ This public repository exists for:
 
 ## 🌐 Try HCODX
 
-👉 https://hcodx.com
+👉 https://hcodx.io
 
 ---
 
@@ -59,10 +59,10 @@ This public repository exists for:
 ## 📎 Useful Links
 
 - Live Preview Editor  
-  https://hcodx.com/html-editor-live-preview.html
+  https://hcodx.io/html-editor-live-preview.html
 
 - HTML CSS JS Editor  
-  https://hcodx.com/html-css-js-editor-online.html
+  https://hcodx.io/html-css-js-editor-online.html
 
 ---
 

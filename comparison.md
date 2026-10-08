@@ -10,7 +10,7 @@ The internet has many online HTML editors and web IDEs. Some focus on advanced c
 **HCODX** is built with a different philosophy:
 > **Privacy-first, local-first, fast live preview.**
 
-Try HCODX: https://hcodx.com
+Try HCODX: https://hcodx.io
 
 ---
 
@@ -94,7 +94,7 @@ HCODX is a strong choice.
 
 ## 7) Try It
 
-👉 https://hcodx.com
+👉 https://hcodx.io
 
 ---
 
